@@ -1,0 +1,65 @@
+<annotation>
+  <folder />
+  <filename>pass1.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>402</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>last name</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>230.06161</xmin>
+      <ymin>12.170605</ymin>
+      <xmax>271.78653</xmax>
+      <ymax>271.78653</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>first name</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>226.18062</xmin>
+      <ymin>29.867891</ymin>
+      <xmax>308.40665</xmax>
+      <ymax>308.40665</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>card no</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>389.62552</xmin>
+      <ymin>102.48987</ymin>
+      <xmax>511.2833</xmax>
+      <ymax>511.2833</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gender</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>209.61618</xmin>
+      <ymin>89.00756</ymin>
+      <xmax>234.59322</xmax>
+      <ymax>234.59322</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>date of birth</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>215.04263</xmin>
+      <ymin>69.046684</ymin>
+      <xmax>304.5944</xmax>
+      <ymax>304.5944</ymax>
+    </bndbox>
+  </object>
+</annotation>
