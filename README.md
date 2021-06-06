@@ -12,4 +12,7 @@ Used transfer learning to develop models which first distinguish between Pakista
 
 
 # Dependencies
+1. Mask RCNN version 1.4
+2. Tensorflow version 1.6
+3. Numpy version 2.1
 
