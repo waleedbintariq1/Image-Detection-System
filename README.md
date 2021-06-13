@@ -16,3 +16,7 @@ Used transfer learning to develop models which first distinguish between Pakista
 2. Tensorflow version 1.6
 3. Numpy version 2.1
 
+# Photos:
+![image](https://user-images.githubusercontent.com/31804051/121807042-e629d400-cc6b-11eb-8474-87adc1d3d015.png)
+![image](https://user-images.githubusercontent.com/31804051/121807047-ede97880-cc6b-11eb-9a99-4b90d87d02e9.png)
+![image](https://user-images.githubusercontent.com/31804051/121807056-f8a40d80-cc6b-11eb-94e7-8247fa5595f4.png)
